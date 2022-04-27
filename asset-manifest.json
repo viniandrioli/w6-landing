@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/w6-landing/static/js/main.810ce57c.js",
+    "static/media/Event-1.webm": "/w6-landing/static/media/Event-1.522266ff04c7947b2c6e.webm",
+    "index.html": "/w6-landing/index.html",
+    "main.810ce57c.js.map": "/w6-landing/static/js/main.810ce57c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.810ce57c.js"
+  ]
+}
